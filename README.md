@@ -12,7 +12,7 @@
 This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord at `3kh0_#6969` and we can talk! If you're looking for the link, click [here](https://3kh0.net)
 
 <!-- More people will be using light mode in their web browser -->
-[![Join us on Discord](https://invidget.switchblade.xyz/wv6huJAwEv?theme=light)](https://discord.io/3kh0_)
+[![Join us on Discord](https://invidget.switchblade.xyz/wv6huJAwEv?theme=light)](https://discord.gg/AXkyztCXUy)
 
 For Support, please contact 3kh0_#6969 or DapperLS#7582 on discord.
 
